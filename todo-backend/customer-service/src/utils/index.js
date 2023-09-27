@@ -17,7 +17,7 @@ export const ValidatePassword = async (
   savedPassword,
   salt
 ) => {
-  return (await this.GeneratePassword(enteredPassword, salt)) === savedPassword;
+  return (await GeneratePassword(enteredPassword, salt)) === savedPassword;
 };
 
 export const GenerateSignature = async (payload) => {
