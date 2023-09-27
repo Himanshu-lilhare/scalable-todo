@@ -1,0 +1,3 @@
+{"level":"error","message":"Sun Sep 24 2023 18:05:52 GMT+0530 (India Standard Time)-{\"name\":\"Data Not found\",\"statusCode\":{\"name\":\"API Error\",\"statusCode\":500,\"isOperational\":true},\"isOperational\":true}","private":true}
+{"level":"error","message":"Sun Sep 24 2023 18:06:45 GMT+0530 (India Standard Time)-{\"name\":\"Data Not found\",\"statusCode\":{\"name\":\"API Error\",\"statusCode\":500,\"isOperational\":true},\"isOperational\":true}","private":true}
+{"level":"error","message":"Sun Sep 24 2023 18:11:38 GMT+0530 (India Standard Time)-{\"name\":\"Data Not found\",\"statusCode\":{},\"isOperational\":true}","private":true}
